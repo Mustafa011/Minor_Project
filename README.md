@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [IOT PROJECT - GODS EYE](https://github.com/mbmanu/IoT_Project)
 Doorstep monitoring system built using Raspberry Pi, Python and OpenCV. 
 
@@ -84,3 +85,7 @@ The REST API Methods to the above app is described below.
 ```
 ## Contributions
 Feel free to contribute. You know the drill fork and request a PR ;)
+=======
+# Minor_Project
+Minor Project on Visual Aid for Blinds using Raspberry Pi
+>>>>>>> 93219e2ebfed30ab1cf4cea9990ae71215ece7a9
